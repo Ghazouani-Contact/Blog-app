@@ -1,0 +1,55 @@
+.LF{
+    display: flex;
+        align-items: center;
+
+}
+.left{
+    
+    margin: 50px;
+}
+.right{
+    align-items:flex-start;
+}
+.desc{
+    max-width: 400px;
+    word-wrap: break-word;
+    white-space: -moz-pre-wrap;
+    white-space: pre-wrap;
+}
+.image{
+    width: 90%;
+    border-radius: 10px;
+    
+ 
+}
+.logo{
+    flex-shrink: 0;
+    width: 80px;
+}
+.btnbtn{
+    margin-left: 50%;
+}
+.btn1{
+    border-radius: 10px;
+
+    color: aliceblue;
+    background: rgb(243, 5, 5);
+
+    margin-right:20px ;
+}
+.btn2{
+    border-radius: 10px;
+
+    color: aliceblue;
+    background: rgb(6, 247, 38);
+
+    margin-right:20px ;
+}
+.upinput{
+    background: rgb(255, 255, 255);
+width: 80%;
+height: 20%;
+}
+.upinputA{
+   width: 200%;
+    }

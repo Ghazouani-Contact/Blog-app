@@ -1,0 +1,10 @@
+
+.LR{
+   display: flex;
+   background-color: #fff;
+   border-radius: 10px;
+   gap: 2rem;
+   margin: 1rem 5vw;
+   padding: 10px;
+   list-style-type: none;
+}

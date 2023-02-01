@@ -1,0 +1,18 @@
+.sliderr{
+   
+  align-items: center;
+    width: 750px;
+    height: 100%;
+    margin-left: 30px;
+   
+
+}
+.img{
+    width: 100%;
+    height: 300px;
+}
+.so{
+  width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
